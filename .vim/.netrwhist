@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/Jimmy/sites/misswalrus/content'
+let g:netrw_dirhist_2='/Users/Jimmy/sites/misswalrus/content/posts'
+let g:netrw_dirhist_3='/Users/Jimmy/sites/misswalrus/static'
+let g:netrw_dirhist_4='/Users/Jimmy/sites/misswalrus'
+let g:netrw_dirhist_5='/Users/Jimmy/sites/misswalrus/content'
+let g:netrw_dirhist_6='/Users/Jimmy/sites/misswalrus/themes/gohugo-theme-ananke/layouts/post'
+let g:netrw_dirhist_7='/Users/Jimmy/sites/misswalrus/themes/gohugo-theme-ananke/layouts'
+let g:netrw_dirhist_8='/Users/Jimmy/sites/misswalrus/themes/gohugo-theme-ananke/layouts/_default'
